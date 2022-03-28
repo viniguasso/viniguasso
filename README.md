@@ -7,7 +7,7 @@
 </h1>
 <p>
   Hi, I'm Vinicius Guasso, Programmer from Brazil!
-  
+
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -19,7 +19,8 @@
 </p>
 <h5>
   <code>
-    <a href="https://www.linkedin.com/in/viniguasso/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn </a></code>
+  <br>
+  <a href="https://www.linkedin.com/in/viniguasso/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn </a></code>
   <code><a href="https://www.instagram.com/viniguasso/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram </a></code>
   <code><a href="https://soundcloud.com/viniguasso/guasso-identity-set/comment-1421642266" title="SoundCloud"><img width="22" src="images/soundcloud.png"> SoundCloud</a></code>
 </h5>
