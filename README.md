@@ -16,13 +16,14 @@
   📚 I’m currently learning Language C, C++ and Java.
   <br>
   📫 How to reach me: <a href="mailto: viniguasso10@gmail.com">viniguasso10@gmail.com</a>
+
 </p>
 <h5>
   <code>
   <br>
   <a href="https://www.linkedin.com/in/viniguasso/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn </a></code>
-  <code><a href="https://www.instagram.com/viniguasso/" title="Instagram Profile"><img width="22" src="images/insta.png"> Instagram </a></code>
-  <code><a href="https://soundcloud.com/viniguasso/guasso-identity-set" title="SoundCloud"><img width="22" src="images/soundc.png"> SoundCloud</a></code>
+  <code><a href="https://www.instagram.com/viniguasso/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram </a></code>
+  <code><a href="https://soundcloud.com/viniguasso/guasso-identity-set" title="SoundCloud"><img width="22" src="images/soundcloud.png"> SoundCloud</a></code>
 </h5>
 
 <hr>
