@@ -13,7 +13,7 @@
   <br>
   🔬 I'm currently studying Computer Science in Universidade Franciscana
   <br>
-  📚 I’m currently learning Language C, C++ and Java.
+  📚 I’m currently learning Language C, C++, Java and Javascript.
   <br>
   📫 How to reach me: <a href="mailto: viniguasso10@gmail.com">viniguasso10@gmail.com</a>
 
